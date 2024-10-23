@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm passionate about building scalable, user-friendly web applications. Currently focused on mastering both front-end and back-end technologies, including JavaScript (React, Node.js), Python, and databases (SQL, NoSQL). This GitHub showcases my journey as I develop skills in full-stack development through hands-on projects and collaboration. <br>
+Let’s connect and build something amazing together!
 
 
 ## 🌐 Socials:
